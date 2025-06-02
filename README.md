@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 👨‍💻 I'm a student of **University of information Technology**, specialization in **Software Engineering** (2021-2025)
+- 👨‍💻 I'm a student of **Industrial University of Ho Chi Minh City**, specialization in **Software Engineering** (2021-2025)
   
 - 👓  I am a **Full-stack developer**, I can work both on **Web and Mobile development with all Tech stack**
  
