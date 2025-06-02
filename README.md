@@ -21,11 +21,6 @@
 <div align="center">
   
 
-![Thuế là nguồn thu chủ yếu để xây dựng và phát triển đất nước](./Thue_2.JPG)
-
------
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white
 )](https://www.facebook.com/ngoc.hue.287653/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vnh.20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
