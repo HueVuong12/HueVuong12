@@ -110,7 +110,8 @@
 <br/>  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhthuong031103&&langs_count=10&show_icons=true&theme=onedark&hide=html&layout=compact" alt="minhthuong031103" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HueVuong12&langs_count=10&show_icons=true&theme=onedark&hide=html&layout=compact" alt="HueVuong12" />
+</p>
 
 <p>;
   <img align="center" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=minhthuong031103&theme=one_dark_pro&show_icons=true" alt="minhthuong031103" />
