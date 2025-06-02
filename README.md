@@ -121,12 +121,11 @@
 <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=HueVuong12&bg_color=0d1117&color=9e4c98&line=2f81f7&point=403d3d&area=true&hide_border=true" alt="HueVuong12" /></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HueVuong12/HueVuong12/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HueVuong12/HueVuong12/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HueVuong12/HueVuong12/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhthuong031103/minhthuong031103/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhthuong031103/minhthuong031103/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/minhthuong031103/minhthuong031103/output/github-contribution-grid-snake.svg">
 </picture>
-
 <div align="center">  
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_UID_MOI&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31tgul2h5zzk35xnmibcn3cgv3u4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
 </div>
 
