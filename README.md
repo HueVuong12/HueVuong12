@@ -112,33 +112,7 @@
 
 
 
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/U/ubuntu-logo-A5C173CA34-seeklogo.com.png" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" alt="Git" height="50" /></a>  
-    <a href="https://www.kubernetes.io" target="_blank"><img style="margin: 10px" src="https://kb.pavietnam.vn/wp-content/uploads/2021/08/k8s-logo.png" alt="Kubernetes" height="50" /></a>  
-    <a href="https://minikube.sigs.k8s.io" target="_blank"><img style="margin: 10px" src="https://assets-global.website-files.com/64196dbe03e13c204de1b1c8/64773f546a9ff7246f6a73f0_80-image-2.png" alt="Minikube" height="50" /></a>
-      <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png" alt="Terraform" height="50" /></a>  
-        <a href="https://prometheus.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" alt="Terraform" height="50" /></a>  
-          <a href="https://grafana.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/1969px-Grafana_icon.svg.png" alt="Terraform" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
- <a href="https://render.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/42682871?s=200&v=4" alt="Vercel" height="50" /></a>  
-  <a href="https://railway.app/" target="_blank"><img style="margin: 10px" src="https://railway.app/brand/logo-dark.svg" alt="Railway" height="50" /></a>  
-  <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" height="50" /></a>  
-  <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="Netlify" height="50" /></a> 
-   <a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://www.geekandjob.com/uploads/wiki/96fadc4f6ccca848d64e16e77c017f7f74e11d44.png" alt="Heroku" height="50" /></a>  
-  <a href="https://aws.amazon.com/vi/s3/" target="_blank"><img style="margin: 10px" src="https://hiepsharing.com/wp-content/uploads/2023/04/Amazon-S3.png" alt="AWS S3" height="50" /></a>  
- <a href="https://aws.amazon.com/vi/lambda/" target="_blank"><img style="margin: 10px" src="https://repository-images.githubusercontent.com/43451191/62449f80-e428-11e9-9244-b860f70d9fc5" alt="AWS lamda" height="50" /></a>  
-  <a href="https://aws.amazon.com/vi/amplify/" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/originals/d8/c2/54/d8c254c31cccdf1599972e87edcbd276.png" alt="AWS amplify" height="50" /></a> 
-    <a href="https://aws.amazon.com/vi/ecr/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:271/1*u7N4KAoe4tDMzs0GEdN1FA.png" alt="ECR" height="50" /></a> 
-   <a href="https://nginx.org/en/" target="_blank"><img style="margin: 10px" src="https://assets.cstatic.io/img/tech/nginx-3.png" alt="Nginx" height="50" /></a>  
-     <a href="https://github.com/actions" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="Github actions" height="50" /></a>  
- <a href="https://www.apollographql.com/docs/react/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/apollo-icon-512x512-xs5t5onq.png" alt="Apollo" height="50" /></a>  
- <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://herve.beraud.io/images/blog/rabbitmq.png" alt="Rabbitmq" height="50" /></a>  
 
-</div>
 
 
 </td></tr></table>  
