@@ -110,6 +110,19 @@
 
 </td><td valign="top" width="33%">
 
+</td></tr></table>  
+
+<br/>  
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhthuong031103&&langs_count=10&show_icons=true&theme=onedark&hide=html&layout=compact" alt="minhthuong031103" /></p>
+
+<p>;
+  <img align="center" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=minhthuong031103&theme=one_dark_pro&show_icons=true" alt="minhthuong031103" />
+</p>
+
+<p><img align="center" src="https://streak-stats.demolab.com/?user=minhthuong031103&theme=onedark&" alt="minhthuong031103" /></p>
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=minhthuong031103&bg_color=0d1117&color=9e4c98&line=2f81f7&point=403d3d&area=true&hide_border=true" alt="minhthuong031103" /></p>
 
 
 
