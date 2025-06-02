@@ -124,22 +124,6 @@
 <p><img align="center" src="https://streak-stats.demolab.com/?user=minhthuong031103&theme=onedark&" alt="minhthuong031103" /></p>
 <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=minhthuong031103&bg_color=0d1117&color=9e4c98&line=2f81f7&point=403d3d&area=true&hide_border=true" alt="minhthuong031103" /></p>
 
-
-
-
-
-
-### Latest articles, blogs 
-
-<!-- BLOG-POST-LIST:START -->
-- [NestJS, WebSocketGateway và SocketIO](https://minhthuong-portfolio.vercel.app/blogs/16)
-- [NextJS, Redux](https://minhthuong-portfolio.vercel.app/blogs/13)
-- [NestJS-MySQL Type ORM](https://minhthuong-portfolio.vercel.app/blogs/15)
-- [NextJS và Graphql với Apollo Client](https://minhthuong-portfolio.vercel.app/blogs/14)
-- [Tìm hiểu về cơ chế của Server Side Rendering và Client Side Rendering](https://minhthuong-portfolio.vercel.app/blogs/3)
-<!-- BLOG-POST-LIST:END -->
-
-> [...more articles](https://minhthuong-portfolio.vercel.app/blogs)
 > 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhthuong031103/minhthuong031103/output/github-contribution-grid-snake-dark.svg">
