@@ -1,21 +1,20 @@
 # 💫 About Me:
 
 - 👨‍💻 I'm a student of **Industrial University of Ho Chi Minh City**, specialization in **Software Engineering** (2021–2025)  
-  
-- 🧪 I specialize in **Automation Testing and Frontend Development**, with experience building **modern, responsive user interfaces** and writing **robust test scripts**
-  
-- 🌱 I have experience in **ReactJS, NextJS** in the front end using UI Component libraries: **TailwindCSS, Styled Components, Shadcn, Ant Design, NextUI, MUI...** and data fetching skills with **SWR, React-query, Redux Saga, tRPC**
-  
-- 👀 In the back-end, I am capable of creating **APIs, GraphQL, WebSocket** with **NodeJS frameworks: NestJS, ExpressJS**
 
-- ⚡ I am familiar with various **SQL, NoSQL** databases combined with **ORM Libraries (Prisma, TypeORM, Sequelize,...)** and **serverless hosting platforms: MySQL (PlanetScale), PostgreSQL (Supabase, Neon), MongoDB Atlas, MS SQL Server, Firebase...**
+- 🧪 I specialize in **Automation Testing and Frontend Development**, with experience building **modern, responsive user interfaces** and writing **robust test scripts**
+
+- ✅ I have hands-on experience in **Automation Testing** using tools such as **Selenium, WebDriver, Cypress, Playwright, TestNG, JUnit** and writing effective **manual & automated test cases**, including knowledge of **testing strategies, assertions, test reporting**
+
+- 🔍 I am familiar with **API Testing** using **Postman**, and have experience with **Performance Testing** using **JMeter**
 
 - 📋 I understand and work effectively in **Agile/Scrum** teams and workflows
 
+- 🌱 I have experience in **ReactJS, NextJS** in the front end using UI Component libraries: **TailwindCSS, Styled Components, Shadcn, Ant Design, NextUI, MUI...** and data fetching skills with **SWR, React-query, Redux Saga, tRPC**
+
+- ⚡ I am familiar with various **SQL, NoSQL** databases combined with **ORM Libraries (Prisma, TypeORM, Sequelize,...)** and **serverless hosting platforms: MySQL (PlanetScale), PostgreSQL (Supabase, Neon), MongoDB Atlas, MS SQL Server, Firebase...**
+
 - 📫 How to reach me: **ngochuevuong12@gmail.com**
-
-
-
 
 <div align="center">
   
