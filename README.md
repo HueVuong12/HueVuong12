@@ -1,19 +1,18 @@
 # 💫 About Me:
 
-- 👨‍💻 I'm a student of **Industrial University of Ho Chi Minh City**, specialization in **Software Engineering** (2021-2025)
+- 👨‍💻 I'm a student of **Industrial University of Ho Chi Minh City**, specialization in **Software Engineering** (2021–2025)  
   
-- 👓  I am a **Full-stack developer**, I can work both on **Web and Mobile development with all Tech stack**
- 
-- 🌱 I have experience in **ReactJS, React Native, NextJS, Angular** in the front end using UI Component library : **TailwindCSS, Styled Component, Shadcn, Ant Design, NextUI, MUI...** and data fetching skill with **SWR, React-query, Redux Saga, tRPC**
+- 🧪 I specialize in **Automation Testing and Frontend Development**, with experience building **modern, responsive user interfaces** and writing **robust test scripts**
   
-- 👀 In the back-end, I am capable of creating **APIs, GraphQL, Websocket** with **NodeJS framework NestJS, ExpressJS** 
+- 🌱 I have experience in **ReactJS, NextJS** in the front end using UI Component libraries: **TailwindCSS, Styled Components, Shadcn, Ant Design, NextUI, MUI...** and data fetching skills with **SWR, React-query, Redux Saga, tRPC**
+  
+- 👀 In the back-end, I am capable of creating **APIs, GraphQL, WebSocket** with **NodeJS frameworks: NestJS, ExpressJS**
 
-- ⚡ I am familiar with various **SQL, NoSql** combined with **ORM Library( Prisma, TypeORM, Sequelize,... )** and **serverless hosting : MySql (PlanetScale) , PostgresQL (Supabase, Neon), MongoDB Atlas, MS SQL Server, FireBase...**
+- ⚡ I am familiar with various **SQL, NoSQL** databases combined with **ORM Libraries (Prisma, TypeORM, Sequelize,...)** and **serverless hosting platforms: MySQL (PlanetScale), PostgreSQL (Supabase, Neon), MongoDB Atlas, MS SQL Server, Firebase...**
 
-- 🔥 Besides, I have knowledge in **DevOps** with **Linux (Ubuntu), Git, CI/CD, Docker, Google Cloud**, **Serverless functions using Vercel, Railway, Render, Netlify, Heroku, AWS Amplify, AWS Lambda, Nginx, Kubernetes** and **Cloud Computing With AWS ( EC2, RDS, S3)**
+- 📋 I understand and work effectively in **Agile/Scrum** teams and workflows
 
-
-- 📫 How to reach me **ngochuevuong12@gmail.com**.
+- 📫 How to reach me: **ngochuevuong12@gmail.com**
 
 
 
