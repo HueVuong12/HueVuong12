@@ -63,7 +63,7 @@
 
 
 
-### 🧪 Testing Skills  
+### Testing Skills  
 <div align="center">  
 <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" height="50" /></a>  
 <a href="https://www.w3.org/TR/webdriver/" target="_blank"><img style="margin: 10px" src="https://webdriver.io/img/webdriverio.png" alt="WebDriver" height="50" /></a>  
