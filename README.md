@@ -63,43 +63,22 @@
 
 
 
-### Backend  
+### 🧪 Testing Skills  
 <div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-  <a href="https://go.dev" target="_blank"><img style="margin: 10px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="C#" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://strapi.io/" target="_blank"><img style="margin: 10px" src="https://yt3.googleusercontent.com/WZlGpOFYvbQb_kZOnlmzNBrFuSFoAfmmxlWm2f2ZVUXb0_Tz7DTZu5nHdT78puF7wBOqzonjOg=s900-c-k-c0x00ffffff-no-rj" alt="Strapi" height="50" /></a>  
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a> 
-<a  href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img  style="margin: 10px" src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-tutorial.svg" height="50"/></a>
-<a  href="https://www.prisma.io/" target="_blank"><img  style="margin: 10px" src="https://cdn.icon-icons.com/icons2/3914/PNG/512/prisma_logo_icon_248778.png" height="50"/></a>
- <a  href="https://supabase.com/" target="_blank"><img  style="margin: 10px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/299/square_480/supabase-logo-icon_1.png" height="50"/></a>
-   <a  href="https://neon.tech/" target="_blank"><img  style="margin: 10px" src="https://neon.tech/favicon/favicon.png" height="50"/></a>
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://www.gstatic.com/devrel-devsite/prod/v35e3d347a323c673294794cf0b643760fd66bb529efbd7dccaa22518acef0297/firebase/images/touchicon-180.png" alt="FireBase" height="50" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-    <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" alt="Casandra" height="50" /></a>  
-   <a href="https://www.planetscale.com/" target="_blank"><img style="margin: 10px" src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/iidhf24ewhnqtjgrrfbp" alt="MySQL" height="50" /></a>  
- <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-  <a href="https://gin-gonic.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" height="50" /></a>  
- <a href="https://typeorm.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeOrm" height="50" /></a>
-   <a href="https://gorm.io" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/15127678?v=4" alt="Gorm" height="50" /></a>
-   <a href="https://mikro-orm.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/54766168?s=200&v=4" alt="MikroOrm" height="50" /></a>
-   <a href="https://sequelize.org/" target="_blank"><img style="margin: 10px" src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" alt="Sequelize" height="50" /></a>
-  <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-    <a href="https://trpc.io" target="_blank"><img style="margin: 10px" src="https://trpc.io/img/logo.svg" alt="tRPC" height="50" /></a>  
-      <a href="https://appwrite.io/" target="_blank"><img style="margin: 10px" src="https://seekvectors.com/storage/images/Appwrite-logo.svg" alt="AppWrite" height="50" /></a>  
-    <a href="https://hasura.io" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/originals/b6/3d/38/b63d38cfe09277c60105d8fffb7390da.png" alt="Hasura" height="50" /></a>
-      <a href="https://orm.drizzle.team/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/108468352?v=4" alt="Drizzle" height="50" /></a>  
-    <a href="https://turso.tech" target="_blank"><img style="margin: 10px" src="https://images.saasworthy.com/turso_45912_logo_1698482949_utu4o.jpg" alt="Turso" height="50" /></a>  
-    <a href="https://upstash.com/" target="_blank"><img style="margin: 10px" src="https://upstash.com/logo/upstash-icon-white-bg.png" alt="Upstash" height="50" /></a>  
-      <a href="https://grpc.io/" target="_blank"><img style="margin: 10px" src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC" height="50" /></a>  
-  <a  href="https://socket.io" target="_blank"><img  style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" height="50"/></a>
-   <a  href="https://soliditylang.org/" target="_blank"><img  style="margin: 10px" src="https://docs.soliditylang.org/tr/latest/_static/logo.svg" height="50"/></a>
-
+<a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" height="50" /></a>  
+<a href="https://www.w3.org/TR/webdriver/" target="_blank"><img style="margin: 10px" src="https://webdriver.io/img/webdriverio.png" alt="WebDriver" height="50" /></a>  
+<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Cypress_io_logo.svg" alt="Cypress" height="50" /></a>  
+<a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="50" /></a>  
+<a href="https://testng.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Testng-logo.png" alt="TestNG" height="50" /></a>  
+<a href="https://junit.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/JUnit_5_Banner.png/800px-JUnit_5_Banner.png" alt="JUnit" height="50" /></a>  
+<a href="#" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/3101/3101361.png" alt="Test Cases" height="50" /></a>  
+<a href="#" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/1149/1149168.png" alt="Manual Testing" height="50" /></a>  
+<a href="#" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/190/190411.png" alt="Automated Testing" height="50" /></a>  
+<a href="#" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/2659/2659360.png" alt="Test Reporting" height="50" /></a>  
+<a href="#" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/4436/4436481.png" alt="Assertions" height="50" /></a>  
+<a href="#" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/1046/1046871.png" alt="Test Strategy" height="50" /></a>  
 </div>
+
 
 
 
